@@ -1,0 +1,25 @@
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+  margin-top: 15px;
+}
+.content_text {
+  display: flex;
+  align-items: center;
+}
+
+.content_text_icon {
+  color: peru;
+  margin-right: 20px;
+}
+
+.content_action {
+  display: flex;
+  align-items: center;
+}
+
+.content_action_buttton {
+  color: red;
+  align-items: center;
+}
